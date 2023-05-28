@@ -9,7 +9,7 @@
                 <h1>Listagem de Jogos</h1>
             </div>
             <div class="col-sm-6">
-                <a href="{{route('jogos-create')}}" class="btn btn-success">Novo jogo</a>
+                <a href="{{route('jogos-create')}}">Novo jogo</a>
             </div>
         </div>
         
