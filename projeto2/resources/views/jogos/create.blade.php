@@ -21,7 +21,7 @@
                 </div>
                 <br>
                 <div class="form-group">
-                    <label for="ano_criacao">Ano de criação:</label>
+                    <label for="ano_criacao">Ano de Lançamento:</label>
                     <input type="number" class="form-control" name="ano_criacao" placeholder="Digite o ano de criação...">
                 </div>
                 <br>
